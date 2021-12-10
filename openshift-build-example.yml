@@ -19,5 +19,3 @@ spec:
     type: Binary
     binary: {}
   runPolicy: Serial
-status:
-  lastVersion: 9
